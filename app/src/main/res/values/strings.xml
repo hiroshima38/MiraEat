@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiraEat</string>
+    <string name="status">ステータス</string>
+    <string name="action_settings">設定</string>
+    <string name="graph_btn">未来予測</string>
+    <string name="input_btn">食事入力</string>
+    <string name="setting_btn">設定</string>
+
+</resources>
